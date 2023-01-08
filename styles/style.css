@@ -5,7 +5,7 @@
 
 /* header style */
 .header{
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("images/banner/banner3.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 1366px;
@@ -87,7 +87,7 @@ color: #005FAC;
 }
 
 .failure-list ul{
-    list-style-image: url(/images/icons/check.png);
+    list-style-image: url(images/icons/check.png);
 }
 
 .section-failure img{
