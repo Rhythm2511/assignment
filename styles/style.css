@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header style */
+.header{
+    background-image: url("/images/banner/banner3.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 1366px;
+    height: 768px;
+}
+
+.main-banner{
+    text-align: right;
+    position: absolute;
+    top: 20%;
+    right: 2%;
+    width: 500px;
+}
+
+.heading{
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.details{
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+
+}
+.btn-primary{
+    
+    width: 160px;
+    height: 64px;
+    left: 1236px;
+    top: 578px;
+    padding: 21px 25px 20px 26px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+
+color: #005FAC;
+}
+
+.section-heading{
+
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.section-failure{
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 130px 320px 130px 206px;
+}
+
+.failure-list{
+    
+    width: 400px;
+    margin-bottom: 130px;
+}
+
+.failure-details{
+    /* margin: 24px 322px 16px 87px; */
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.failure-list ul{
+    list-style-image: url(/images/icons/check.png);
+}
+
+.section-failure img{
+    height: 400px;
+}
+
+
+
+.plans h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 50px;
+}
+.myplans{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 230px 130px 230px;
+}
+
